@@ -16,3 +16,4 @@ dependencies:
   - nbresuse
   - psutil
   - pip
+  - tornado==5.1.1
